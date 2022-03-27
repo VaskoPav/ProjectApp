@@ -1,0 +1,12 @@
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\bin\Debug\netcoreapp3.1\CodingTest.Models.deps.json
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\bin\Debug\netcoreapp3.1\CodingTest.Models.runtimeconfig.json
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\bin\Debug\netcoreapp3.1\CodingTest.Models.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\bin\Debug\netcoreapp3.1\CodingTest.Models.dll
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\bin\Debug\netcoreapp3.1\CodingTest.Models.pdb
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\obj\Debug\netcoreapp3.1\CodingTest.Models.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\obj\Debug\netcoreapp3.1\CodingTest.Models.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\obj\Debug\netcoreapp3.1\CodingTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\obj\Debug\netcoreapp3.1\CodingTest.Models.dll
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\obj\Debug\netcoreapp3.1\CodingTest.Models.pdb
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\obj\Debug\netcoreapp3.1\CodingTest.Models.genruntimeconfig.cache
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Models\obj\Debug\netcoreapp3.1\CodingTest.Models.csprojAssemblyReference.cache

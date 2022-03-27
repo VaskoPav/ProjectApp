@@ -1,0 +1,14 @@
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\bin\Debug\netcoreapp3.1\CodingTest.Services.deps.json
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\bin\Debug\netcoreapp3.1\CodingTest.Services.dll
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\bin\Debug\netcoreapp3.1\CodingTest.Services.pdb
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\bin\Debug\netcoreapp3.1\CodingTest.DataAccess.dll
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\bin\Debug\netcoreapp3.1\CodingTest.Models.dll
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\bin\Debug\netcoreapp3.1\CodingTest.DataAccess.pdb
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\bin\Debug\netcoreapp3.1\CodingTest.Models.pdb
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\obj\Debug\netcoreapp3.1\CodingTest.Services.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\obj\Debug\netcoreapp3.1\CodingTest.Services.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\obj\Debug\netcoreapp3.1\CodingTest.Services.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\obj\Debug\netcoreapp3.1\CodingTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\obj\Debug\netcoreapp3.1\CodingTest.Services.csproj.CopyComplete
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\obj\Debug\netcoreapp3.1\CodingTest.Services.dll
+C:\Users\Vasko\Desktop\NetCodingTest\CodingTest\CodingTest.Services\obj\Debug\netcoreapp3.1\CodingTest.Services.pdb
